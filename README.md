@@ -6,6 +6,7 @@ Appointment Scheduling and Schedule Management App. Daniel Lusaya 9/21/2021
 
 Programming language:
 Java 11 SDK
+
 Database Management System:
 MySQL Workbench Community Edition 8.0
 
